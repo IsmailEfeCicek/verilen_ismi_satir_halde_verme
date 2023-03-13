@@ -1,0 +1,1 @@
+# verilen_ismi_satir_halde_verme kullanicinin girdigi isimleri karekter karekter ekrana yazdırması
